@@ -1,1 +1,17 @@
+#box {
+       width:400px;
+       height:80px;
+       background-color:yellow;
+       }
 
+#sport {
+        width:400px;
+        height:80px;
+        background-color:green;
+        } 
+
+#car {
+      width:400px;
+      height:80px;
+      background-color:red;
+      }
